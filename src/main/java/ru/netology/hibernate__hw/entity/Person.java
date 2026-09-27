@@ -77,7 +77,4 @@ public class Person {
     public void setCityOfLiving(String cityOfLiving) {
         this.cityOfLiving = cityOfLiving;
     }
-
-    // Составной первичный ключ
-
 }
